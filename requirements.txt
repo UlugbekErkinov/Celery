@@ -1,1 +1,8 @@
 django
+djangorestframework
+celery
+pillow
+psycopg2
+drf-yasg
+django-debug-toolbar
+unidecode
